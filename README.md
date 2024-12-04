@@ -26,13 +26,13 @@ Pending Tasks: View only tasks that are not completed.
 
 Overdue Tasks: View tasks with a due date before the current date.
 
-### UI/UX:
+## UI/UX:
 
 Responsive design for both desktop and mobile screens.
 
 Clean and intuitive layout for ease of use.
 
-#### Technology Stack
+## Technology Stack
 
 React (for building the UI)
 
